@@ -1,66 +1,52 @@
-- <h1 align="center">
-  Hi there 👋, I'm <span style="color:#00bcd4">Anoop R A</span>
-</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFDA&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub!;I+love+Tech+%F0%9F%9B%A0;Let's+Build+Something+Awesome+%F0%9F%AA%96" alt="Typing SVG" />
+  <a href="https://github.com/AnoopRA25">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eTdtNHp5Y280YTRqMTUyNXJ2N2N4Nmtib2FkdDFhYjVpZ3R4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgkrE404i23xN9dK71/giphy.gif" width="100px" alt="Hi There GIF">
+  </a>
+  <h1>Hey there, I'm Anoop! 👋</h1>
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+### About Me
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Embedded Systems, Web Projects, and Digital Design**
-- 🌱 I’m learning **ARM Architecture, C++, Verilog, ReactJS**
-- 💡 Passionate about building **intelligent hardware** & interactive **frontend UIs**
-- 💬 Ask me about anything related to tech, I’d love to help!
-- ⚡ Fun fact: I design better when I’m listening to retro 8-bit music 🎶
+- 👀 I'm deeply interested in **[Your Primary Interests - e.g., Web Development, Machine Learning, Open Source Contributions]**. I love exploring new technologies and diving into challenging problems.
+- 🌱 I'm currently leveling up my skills in **[What you're currently learning - e.g., Rust programming, Advanced React patterns, Cloud Native Architectures]**. Always learning, always growing!
+- 💞️ I'm actively looking to collaborate on **[Types of projects you're interested in - e.g., innovative full-stack applications, data science projects for social good, open-source libraries]**. If you have an exciting idea, let's connect!
+- 📫 You can best reach me by **[Your preferred contact method - e.g., sending an email to anoopra25@example.com or connecting on LinkedIn]**.
 
 ---
 
-### 🔧 Tech Stack
+### My GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,verilog,vscode,arduino,html,css,js,react,git,github" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnoopRA25&show_icons=true&theme=radical&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnoopRA25&theme=tokyonight" height="180px"/>
-</p>
-
----
-
-### 🧩 Fun Projects
-
-- 🎮 [C Games with HTML integration](#)  
-- 🚀 [7-Segment Display & Divider on FPGA](#)  
-- 🧠 [AI Logic ChatBot using GPT API](#)  
-- 🍱 [Smart Mess Management Portal](#)
-
----
-
-### 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anoopra25/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+  <a href="https://github.com/AnoopRA25">
+    <img src="https://github-readme-stats.vercel.app/api?username=AnoopRA25&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Anoop's GitHub Stats"/>
   </a>
-  <a href="mailto:anoopra25@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/AnoopRA25">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnoopRA25&theme=dark" alt="Anoop's GitHub Streak"/>
   </a>
-  <a href="https://github.com/AnoopRA25" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/AnoopRA25">
+    <img src="https://github-profile-trophy.vercel.app/?username=AnoopRA25&theme=dark" alt="Anoop's GitHub Trophies"/>
   </a>
-</p>
+</div>
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### Languages & Tools I Love
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,docker,aws,git,github,vscode,linux&theme=dark" alt="My Skills"/>
+</div>
+
+---
+
+### Fun Fact About Me!
+
+⚡ Did you know I can **[Your fun fact - e.g., solve a Rubik's Cube in under a minute, recite the first 100 digits of Pi, make a perfect cup of coffee blindfolded]**? It's a great way to unwind after a coding session!
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZvbzBzdGR2Mzl1am85b29mdm04ajU2cDB5aTF3OHV1NDJmczB2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9WoiQA/giphy.gif" width="50px" alt="Code On GIF">
+  <p>Happy Coding! Let's build something amazing together.</p>
+</div>
